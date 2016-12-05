@@ -48,7 +48,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" runat="server" href="~/">
-                        <img alt="Aflac - VersionOne Requestor" src="/img/aflac-logo.png" width="120" height="38"/>
+                        <img alt="ACME - VersionOne Requestor" src="/img/AcmeCorpLogo.png" width="120" height="38"/>
                     </a> 
                 </div>
                 <div class="navbar-collapse collapse">
@@ -65,7 +65,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - VersionOne Requestor customized for Aflac, Inc.</p>
+                <p>&copy; <%: DateTime.Now.Year %> - VersionOne Requestor customized for ACME Corporation</p>
             </footer>
         </div>
     </form>
